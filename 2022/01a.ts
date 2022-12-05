@@ -16,4 +16,5 @@ console.log(`max ${max}`);
 
 const endTime = performance.now();
 console.log(`took ${endTime - startTime}`);
+// 69795
 // 0.4ms
